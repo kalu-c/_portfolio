@@ -59,6 +59,9 @@ const Footer = () => {
             <Link href={"/#projects"}>
               <FlipText className="text-sm">Projects</FlipText>
             </Link>
+            <Link href={"/blog"}>
+              <FlipText className="text-sm">Blog</FlipText>
+            </Link>
             <Link href={"/contact"}>
               <FlipText className="text-sm">Contact</FlipText>
             </Link>
